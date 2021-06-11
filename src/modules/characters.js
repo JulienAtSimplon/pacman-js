@@ -356,7 +356,7 @@ class Ghost extends Character {
   }
 
 
-// Characters animation
+// Characters animations
 const animMouth = " @keyframes eat {\
     0% {\
       clip-path: polygon(100% 74%, 44% 48%, 100% 21%);\

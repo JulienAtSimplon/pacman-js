@@ -137,4 +137,4 @@ const foodsPosition = [
   {top: 270, left: 230, id: 88},
 ];
 
-export { widthFloor, heightFloor, foodHeight, foodWidth, foodColor, foodsPosition, wallsInfos, foodsPosition }
+export { widthFloor, heightFloor, foodHeight, foodWidth, foodColor, gameFloor, foodsPosition, wallsInfos }

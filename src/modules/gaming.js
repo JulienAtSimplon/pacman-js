@@ -46,6 +46,4 @@ export function Victory() {
     gameFloor.appendChild(card);
 }
 
-// export function proto(message) {
-//     console.log(message);
-// }
+// export function _proto(message) { console.log(message); };
